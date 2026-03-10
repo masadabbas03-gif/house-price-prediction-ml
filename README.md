@@ -108,6 +108,5 @@ house-price-prediction-ml
 ## Author
 
 Muhammad Assad Abbas
-
 1. Clone the repository
 
